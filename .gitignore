@@ -1,0 +1,24 @@
+# Android build outputs
+AndroidMacro/android/app/build/
+AndroidMacro/android/.gradle/
+AndroidMacro/android/build/
+AndroidMacro/android/local.properties
+AndroidMacro/android/app/debug.keystore
+# Keep debug.keystore committed (needed for updates on device)
+!AndroidMacro/android/app/debug.keystore
+
+# Node
+AndroidMacro/node_modules/
+SleepLock/
+
+# React Native
+AndroidMacro/.bundle/node_modules
+
+# Build artifacts
+AndroidMacro/AndroidMacro.apk
+
+# iOS (unused)
+AndroidMacro/ios/
+
+# Logs
+*.log
