@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">AndroidMacro</string>
+
+    <string name="accessibility_service_label">
+        AndroidMacro
+    </string>
+
+    <string name="accessibility_service_description">
+        Locks the screen after idle time. Listens for taps and typing only; it does not intercept touch or keyboard input.
+    </string>
+
+</resources>
